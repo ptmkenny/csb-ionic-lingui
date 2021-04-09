@@ -2,7 +2,6 @@ import '@capacitor/core'; // Include capacitor js bridge.
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
-import './assets/extension.css';
 import App from './App';
 
 const startApp = () => {
