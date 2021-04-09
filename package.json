@@ -41,7 +41,6 @@
     "axios": "^0.21.1",
     "axios-hooks": "^2.6.1",
     "cc.fovea.cordova.purchase": "^10.5.3",
-    "ckeditor5-custom-build": "file:ckeditor5",
     "cordova-res": "^0.15.3",
     "electron-windows-store": "^2.1.0",
     "eslint": "^7.23.0",
